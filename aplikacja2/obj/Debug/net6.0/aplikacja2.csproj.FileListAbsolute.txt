@@ -1,0 +1,14 @@
+C:\Users\hpts\source\repos\wsb\aplikacja2\bin\Debug\net6.0\aplikacja2.exe
+C:\Users\hpts\source\repos\wsb\aplikacja2\bin\Debug\net6.0\aplikacja2.deps.json
+C:\Users\hpts\source\repos\wsb\aplikacja2\bin\Debug\net6.0\aplikacja2.runtimeconfig.json
+C:\Users\hpts\source\repos\wsb\aplikacja2\bin\Debug\net6.0\aplikacja2.dll
+C:\Users\hpts\source\repos\wsb\aplikacja2\bin\Debug\net6.0\aplikacja2.pdb
+C:\Users\hpts\source\repos\wsb\aplikacja2\obj\Debug\net6.0\aplikacja2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hpts\source\repos\wsb\aplikacja2\obj\Debug\net6.0\aplikacja2.AssemblyInfoInputs.cache
+C:\Users\hpts\source\repos\wsb\aplikacja2\obj\Debug\net6.0\aplikacja2.AssemblyInfo.cs
+C:\Users\hpts\source\repos\wsb\aplikacja2\obj\Debug\net6.0\aplikacja2.csproj.CoreCompileInputs.cache
+C:\Users\hpts\source\repos\wsb\aplikacja2\obj\Debug\net6.0\aplikacja2.dll
+C:\Users\hpts\source\repos\wsb\aplikacja2\obj\Debug\net6.0\refint\aplikacja2.dll
+C:\Users\hpts\source\repos\wsb\aplikacja2\obj\Debug\net6.0\aplikacja2.pdb
+C:\Users\hpts\source\repos\wsb\aplikacja2\obj\Debug\net6.0\aplikacja2.genruntimeconfig.cache
+C:\Users\hpts\source\repos\wsb\aplikacja2\obj\Debug\net6.0\ref\aplikacja2.dll
