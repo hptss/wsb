@@ -1,0 +1,14 @@
+C:\Users\hpts\Source\Repos\hptss\wsb\co_wieksze\bin\Debug\net6.0\co_wieksze.exe
+C:\Users\hpts\source\repos\hptss\wsb\co_wieksze\bin\Debug\net6.0\co_wieksze.deps.json
+C:\Users\hpts\source\repos\hptss\wsb\co_wieksze\bin\Debug\net6.0\co_wieksze.runtimeconfig.json
+C:\Users\hpts\Source\Repos\hptss\wsb\co_wieksze\bin\Debug\net6.0\co_wieksze.dll
+C:\Users\hpts\Source\Repos\hptss\wsb\co_wieksze\bin\Debug\net6.0\co_wieksze.pdb
+C:\Users\hpts\Source\Repos\hptss\wsb\co_wieksze\obj\Debug\net6.0\co_wieksze.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hpts\Source\Repos\hptss\wsb\co_wieksze\obj\Debug\net6.0\co_wieksze.AssemblyInfoInputs.cache
+C:\Users\hpts\Source\Repos\hptss\wsb\co_wieksze\obj\Debug\net6.0\co_wieksze.AssemblyInfo.cs
+C:\Users\hpts\Source\Repos\hptss\wsb\co_wieksze\obj\Debug\net6.0\co_wieksze.csproj.CoreCompileInputs.cache
+C:\Users\hpts\Source\Repos\hptss\wsb\co_wieksze\obj\Debug\net6.0\co_wieksze.dll
+C:\Users\hpts\Source\Repos\hptss\wsb\co_wieksze\obj\Debug\net6.0\refint\co_wieksze.dll
+C:\Users\hpts\Source\Repos\hptss\wsb\co_wieksze\obj\Debug\net6.0\co_wieksze.pdb
+C:\Users\hpts\source\repos\hptss\wsb\co_wieksze\obj\Debug\net6.0\co_wieksze.genruntimeconfig.cache
+C:\Users\hpts\source\repos\hptss\wsb\co_wieksze\obj\Debug\net6.0\ref\co_wieksze.dll

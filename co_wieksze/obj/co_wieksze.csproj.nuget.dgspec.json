@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hpts\\Source\\Repos\\hptss\\wsb\\srodkowa_liczba\\srodkowa_liczba.csproj": {}
+    "C:\\Users\\hpts\\Source\\Repos\\hptss\\wsb\\co_wieksze\\co_wieksze.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hpts\\Source\\Repos\\hptss\\wsb\\srodkowa_liczba\\srodkowa_liczba.csproj": {
+    "C:\\Users\\hpts\\Source\\Repos\\hptss\\wsb\\co_wieksze\\co_wieksze.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hpts\\Source\\Repos\\hptss\\wsb\\srodkowa_liczba\\srodkowa_liczba.csproj",
-        "projectName": "srodkowa_liczba",
-        "projectPath": "C:\\Users\\hpts\\Source\\Repos\\hptss\\wsb\\srodkowa_liczba\\srodkowa_liczba.csproj",
+        "projectUniqueName": "C:\\Users\\hpts\\Source\\Repos\\hptss\\wsb\\co_wieksze\\co_wieksze.csproj",
+        "projectName": "co_wieksze",
+        "projectPath": "C:\\Users\\hpts\\Source\\Repos\\hptss\\wsb\\co_wieksze\\co_wieksze.csproj",
         "packagesPath": "C:\\Users\\hpts\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hpts\\Source\\Repos\\hptss\\wsb\\srodkowa_liczba\\obj\\",
+        "outputPath": "C:\\Users\\hpts\\source\\repos\\hptss\\wsb\\co_wieksze\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
