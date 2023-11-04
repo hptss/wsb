@@ -1,0 +1,14 @@
+C:\Users\hpts\source\repos\hptss\wsb\rok_przest\obj\Debug\net6.0\rok_przest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hpts\source\repos\hptss\wsb\rok_przest\obj\Debug\net6.0\rok_przest.AssemblyInfoInputs.cache
+C:\Users\hpts\source\repos\hptss\wsb\rok_przest\obj\Debug\net6.0\rok_przest.AssemblyInfo.cs
+C:\Users\hpts\source\repos\hptss\wsb\rok_przest\obj\Debug\net6.0\rok_przest.csproj.CoreCompileInputs.cache
+C:\Users\hpts\source\repos\hptss\wsb\rok_przest\bin\Debug\net6.0\rok_przest.exe
+C:\Users\hpts\source\repos\hptss\wsb\rok_przest\bin\Debug\net6.0\rok_przest.deps.json
+C:\Users\hpts\source\repos\hptss\wsb\rok_przest\bin\Debug\net6.0\rok_przest.runtimeconfig.json
+C:\Users\hpts\source\repos\hptss\wsb\rok_przest\bin\Debug\net6.0\rok_przest.dll
+C:\Users\hpts\source\repos\hptss\wsb\rok_przest\bin\Debug\net6.0\rok_przest.pdb
+C:\Users\hpts\source\repos\hptss\wsb\rok_przest\obj\Debug\net6.0\rok_przest.dll
+C:\Users\hpts\source\repos\hptss\wsb\rok_przest\obj\Debug\net6.0\refint\rok_przest.dll
+C:\Users\hpts\source\repos\hptss\wsb\rok_przest\obj\Debug\net6.0\rok_przest.pdb
+C:\Users\hpts\source\repos\hptss\wsb\rok_przest\obj\Debug\net6.0\rok_przest.genruntimeconfig.cache
+C:\Users\hpts\source\repos\hptss\wsb\rok_przest\obj\Debug\net6.0\ref\rok_przest.dll

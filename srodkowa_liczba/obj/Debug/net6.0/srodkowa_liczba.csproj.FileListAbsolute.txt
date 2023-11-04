@@ -1,0 +1,14 @@
+C:\Users\hpts\source\repos\hptss\wsb\srodkowa_liczba\obj\Debug\net6.0\srodkowa_liczba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hpts\source\repos\hptss\wsb\srodkowa_liczba\obj\Debug\net6.0\srodkowa_liczba.AssemblyInfoInputs.cache
+C:\Users\hpts\source\repos\hptss\wsb\srodkowa_liczba\obj\Debug\net6.0\srodkowa_liczba.AssemblyInfo.cs
+C:\Users\hpts\source\repos\hptss\wsb\srodkowa_liczba\obj\Debug\net6.0\srodkowa_liczba.csproj.CoreCompileInputs.cache
+C:\Users\hpts\source\repos\hptss\wsb\srodkowa_liczba\bin\Debug\net6.0\srodkowa_liczba.exe
+C:\Users\hpts\source\repos\hptss\wsb\srodkowa_liczba\bin\Debug\net6.0\srodkowa_liczba.deps.json
+C:\Users\hpts\source\repos\hptss\wsb\srodkowa_liczba\bin\Debug\net6.0\srodkowa_liczba.runtimeconfig.json
+C:\Users\hpts\source\repos\hptss\wsb\srodkowa_liczba\bin\Debug\net6.0\srodkowa_liczba.dll
+C:\Users\hpts\source\repos\hptss\wsb\srodkowa_liczba\bin\Debug\net6.0\srodkowa_liczba.pdb
+C:\Users\hpts\source\repos\hptss\wsb\srodkowa_liczba\obj\Debug\net6.0\srodkowa_liczba.dll
+C:\Users\hpts\source\repos\hptss\wsb\srodkowa_liczba\obj\Debug\net6.0\refint\srodkowa_liczba.dll
+C:\Users\hpts\source\repos\hptss\wsb\srodkowa_liczba\obj\Debug\net6.0\srodkowa_liczba.pdb
+C:\Users\hpts\source\repos\hptss\wsb\srodkowa_liczba\obj\Debug\net6.0\srodkowa_liczba.genruntimeconfig.cache
+C:\Users\hpts\source\repos\hptss\wsb\srodkowa_liczba\obj\Debug\net6.0\ref\srodkowa_liczba.dll

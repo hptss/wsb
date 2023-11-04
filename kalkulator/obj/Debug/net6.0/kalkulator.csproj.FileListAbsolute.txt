@@ -1,0 +1,14 @@
+C:\Users\hpts\source\repos\hptss\wsb\kalkulator\obj\Debug\net6.0\kalkulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hpts\source\repos\hptss\wsb\kalkulator\obj\Debug\net6.0\kalkulator.AssemblyInfoInputs.cache
+C:\Users\hpts\source\repos\hptss\wsb\kalkulator\obj\Debug\net6.0\kalkulator.AssemblyInfo.cs
+C:\Users\hpts\source\repos\hptss\wsb\kalkulator\obj\Debug\net6.0\kalkulator.csproj.CoreCompileInputs.cache
+C:\Users\hpts\source\repos\hptss\wsb\kalkulator\bin\Debug\net6.0\kalkulator.exe
+C:\Users\hpts\source\repos\hptss\wsb\kalkulator\bin\Debug\net6.0\kalkulator.deps.json
+C:\Users\hpts\source\repos\hptss\wsb\kalkulator\bin\Debug\net6.0\kalkulator.runtimeconfig.json
+C:\Users\hpts\source\repos\hptss\wsb\kalkulator\bin\Debug\net6.0\kalkulator.dll
+C:\Users\hpts\source\repos\hptss\wsb\kalkulator\bin\Debug\net6.0\kalkulator.pdb
+C:\Users\hpts\source\repos\hptss\wsb\kalkulator\obj\Debug\net6.0\kalkulator.dll
+C:\Users\hpts\source\repos\hptss\wsb\kalkulator\obj\Debug\net6.0\refint\kalkulator.dll
+C:\Users\hpts\source\repos\hptss\wsb\kalkulator\obj\Debug\net6.0\kalkulator.pdb
+C:\Users\hpts\source\repos\hptss\wsb\kalkulator\obj\Debug\net6.0\kalkulator.genruntimeconfig.cache
+C:\Users\hpts\source\repos\hptss\wsb\kalkulator\obj\Debug\net6.0\ref\kalkulator.dll
