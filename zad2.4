@@ -1,0 +1,25 @@
+using System;
+
+namespace zadanie2._4
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int[] liczby = new int[3];
+
+            Console.Write("Podaj liczbę nr 1: ");
+            liczby[0] = int.Parse(Console.ReadLine()!);
+
+            Console.Write("Podaj liczbę nr 2: ");
+            liczby[1] = int.Parse(Console.ReadLine()!);
+
+            Console.Write("Podaj liczbę nr 3: ");
+            liczby[2] = int.Parse(Console.ReadLine()!);
+
+            Array.Sort(liczby);
+
+            Console.WriteLine($"Posortowane liczby to: {liczby[0]}, {liczby[1]}, {liczby[2]}");
+        }
+    }
+}
