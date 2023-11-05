@@ -1,0 +1,32 @@
+using System;
+namespace zaddwa
+{
+    internal class Program
+    {
+        static void Main()
+        {
+
+            Console.WriteLine("Podaj wiek w zakresie 18-30");
+            int wiek = int.Parse(Console.ReadLine()!);
+
+            if(wiek >=18 && wiek <= 30)
+            {
+                switch (wiek)
+                {
+                    case 18:
+                        Console.WriteLine("Masz 18 lat");
+                        break;
+                    case int n when (n < 31 && n >= 18):
+                        Console.WriteLine("Masz pomiędzy 19 a 30 lat ");
+                        break;
+                }
+            }
+            else
+            {
+                Console.WriteLine("Jesteś poza przedziałem wiekowy");
+            }
+
+
+        }
+    }
+}
