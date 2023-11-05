@@ -1,0 +1,67 @@
+using System;
+
+namespace zadanie2._4
+{
+    class Program
+    {
+        static void Main()
+        {
+
+                Console.WriteLine("Podaj pierwszą liczbę: ");
+            double liczba1 = double.Parse(Console.ReadLine());
+
+            Console.WriteLine("Podaj drugą liczbę: ");
+            double liczba2 = double.Parse(Console.ReadLine());
+
+            Console.WriteLine("Wybierz działanie:");
+            Console.WriteLine("Dodawanie    \"+\"");
+            Console.WriteLine("Odjemowanie  \"-\"");
+            Console.WriteLine("Mnożenie     \"*\"");
+            Console.WriteLine("Dzielenie    \"/\"");
+            Console.WriteLine("Dzielenie modulo \"%\"");
+
+            char wybor = Convert.ToChar(Console.ReadLine());
+
+            double wynik;
+
+                switch (wybor)
+                {
+                    case '+':
+                        wynik = liczba1 + liczba2;
+                    Console.WriteLine("Wynik: " + wynik);
+                    break;
+                    case '-':
+                        wynik = liczba1 - liczba2;
+                    Console.WriteLine("Wynik: " + wynik);
+                    break;
+                    case '*':
+                        wynik = liczba1 * liczba2;
+                    Console.WriteLine("Wynik: " + wynik);
+                    break;
+                    case '/':
+                        if (liczba2 != 0)
+                        {
+                            wynik = liczba1 / liczba2;
+                        Console.WriteLine("Wynik: " + wynik);
+                    }
+                        else
+                        {
+                            Console.WriteLine("Nie można dzielić przez zero.");
+                        }
+                    break;
+                case '%':
+                    if (liczba2 != 0)
+                    {
+                        wynik = liczba1 % liczba2;
+                        Console.WriteLine("Wynik: " + wynik);
+                    }
+                    else
+                    {
+                        Console.WriteLine("Nie można dzielić przez zero.");
+                    }
+                    break;
+
+            }
+        }
+    }
+}
