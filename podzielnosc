@@ -1,0 +1,36 @@
+using System;
+namespace zaddwa
+{
+    internal class Program
+    {
+        static void Main()
+        {
+
+            Console.WriteLine("Podaj liczbę od 1 do 999");
+            int liczba = int.Parse(Console.ReadLine()!);
+
+            if (liczba <= 999 && liczba >= 1)
+            {
+                int setki = liczba / 100;
+                liczba -= setki * 100;
+                int dziesiatki = liczba / 10;
+                liczba -= dziesiatki * 10;
+                int jednosci = liczba;
+
+                if ((setki + dziesiatki + jednosci) % 3 == 0)
+                {
+                    Console.WriteLine("Liczba jest podzielna przez 3.");
+                }
+                else
+                {
+                    Console.WriteLine("Liczba nie jest podzielna przez 3.");
+                }
+            }
+            else
+            {
+                Console.WriteLine("Liczba spoza zakresu.");
+            }
+
+        }
+    }
+}
